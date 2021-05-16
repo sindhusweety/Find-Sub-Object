@@ -1,5 +1,5 @@
 """
-shortest path
+shortest sub path destination
 """
 def recursive(N, A, unique_n, unique):
     if unique_n == N:

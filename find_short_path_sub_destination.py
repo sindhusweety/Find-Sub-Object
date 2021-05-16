@@ -28,4 +28,4 @@ def solution(A):
     unique_n = len(unique)
     return  recursive(len(A), A, unique_n, unique)
 
-print(solution([2, 1, 1, 3]))
+print(solution([2, 1, 1, 3, 1]))
